@@ -1,0 +1,6 @@
+.whitesource
+__tests__
+jest.config.js
+tsconfig.json
+coverage
+.yalc
